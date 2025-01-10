@@ -1,7 +1,7 @@
 package com.lab5.lab5;
 /*
  * Subject class is a class that contains the information of a subject
- * @author viphou
+ * @author Meas Ratanakviphou
  * @version 1.0
  * @modify 2025/01/10
  */
