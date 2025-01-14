@@ -20,8 +20,8 @@ public class Session {
 	
 	void setDuration(int startTime, int endTime) {
 		
-		// Measure in Minutes (Ex: 1300 = 13:00pm)
-		int startMinutes = (startTime / 100) * 60 + (startTime % 100);
+	// Measure in Minutes (Ex: 1300 = 13:00pm)
+	int startMinutes = (startTime / 100) * 60 + (startTime % 100);
         int endMinutes = (endTime / 100) * 60 + (endTime % 100);
 
         if (startMinutes > endMinutes) {
